@@ -8,11 +8,10 @@
   <a href="singhsneha15082004@gmail.com">Email</a>
 </p>
 
------------------------------------------------------------
+
 - UnderGrad Student <br>
 - At Present, learning DL <br>
 - Data Science Enthusiast <br>
-------------------------------------------------------------
 
 ## Projects
 - Twitter Sentiment Analysis : [Sentiment Analysis using logreg, RF, LSTM & BERT](https://github.com/Sneha-mav/Twitter-Sentiment-Analysis)
