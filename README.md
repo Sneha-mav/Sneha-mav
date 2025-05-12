@@ -13,7 +13,7 @@
   <img align="left" alt="Sneha Mail" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
 </a>
 <a href="https://sneha-mav.github.io/Snehamav/">
-  <img align="left" alt="Sneha Website" width="25px" src="https://github.com/Sneha-mav/Sneha-mav/blob/main/user.png"/>
+  <img align="left" alt="Sneha Website" width="27px" src="https://github.com/Sneha-mav/Sneha-mav/blob/main/login%20(1).png"/>
 </a>
 </br>
 </div>
