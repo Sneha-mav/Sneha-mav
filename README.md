@@ -18,7 +18,7 @@
 </br>
 </div>
 
-#### *UnderGrad Student & Data Science Enthusiast*
+#### Undergraduate student with a foundation in machine learning and growing skills in deep learning. Currently learning about A/B testing, and Neural Architecture Search. I’ve also worked as a UI/UX designer in the past
 
 <h3>Projects</h3>
 <p>Twitter Sentiment Analysis :
