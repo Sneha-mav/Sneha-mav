@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/snehasingh9/">
   <img align="left" alt="Sneha Singh LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-<a href="https://x.com/Sneha_mav">
+<a href="https://x.com/snehamav">
   <img align="left" alt="Sneha_mav Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="singhsneha15082004@gmail.com">
+<a href="snehasinghsrs@gmail.com">
   <img align="left" alt="Sneha Mail" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
 </a>
 <a href="https://snehas.me/">
