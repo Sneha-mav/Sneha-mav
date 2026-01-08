@@ -21,9 +21,21 @@
 #### Undergraduate student with a foundation in machine learning and growing skills in deep learning. Currently learning about A/B testing, and Neural Architecture Search. I’ve also worked as a UI/UX designer in the past
 
 <h3>Projects</h3>
-<p>Twitter Sentiment Analysis :
-  <a href="https://github.com/Sneha-mav/Twitter-Sentiment-Analysis">
-    Sentiment Analysis using logreg, RF, LSTM & BERT
+<p>Serverless Event-Driven Image ETL Pipeline on AWS :
+  <a href="https://github.com/Sneha-mav/event-driven-image-etl-aws">
+    Event-driven ETL pipeline using S3 → Lambda → SNS
+  </a>
+</p>
+<p>Intelligent Charging Station Management for Electric Vehicles Part-1 :
+  <a href="https://github.com/Sneha-mav/ev-zone-mapping-routing-delhi">
+  <br>
+    (ICS) allocation and utilization in urban environments.
+  </a>
+</p>
+<p>Intelligent Charging Station Management for Electric Vehicles Part-2 :
+  <a href="https://github.com/Sneha-mav/ev-discharge-and-range-prediction">
+  <br>
+    Discharge Rates and range prediction for EVs
   </a>
 </p>
 <p>Movie Recommendation System CF(KNN) & CBF :
@@ -36,11 +48,7 @@
     Prediction Model using multiple methods
   </a>
 </p>
-<p>Iris Flower Classification :
-  <a href="https://github.com/Sneha-mav/Iris-Flower-Classification">
-    Classification Algorithms
-  </a>
-</p>
+
 
 <h3>Tech Stack</h3>
 <p>Languages:
