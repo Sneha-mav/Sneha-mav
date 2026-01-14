@@ -18,7 +18,8 @@
 </br>
 </div>
 
-#### Undergraduate student with a foundation in machine learning and growing skills in deep learning. Currently learning about A/B testing, and Neural Architecture Search. I’ve also worked as a UI/UX designer in the past
+#### Engineer working across data science, data engineering, and machine learning. I build data pipelines, train models, and automate workflows using Python, SQL, and modern ML/big-data tools. 
+#### Always open to collaborations and learning opportunities.
 
 <h3>Projects</h3>
 <p>Serverless Event-Driven Image ETL Pipeline on AWS :
